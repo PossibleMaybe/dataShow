@@ -1,3 +1,17 @@
 .dpi {
     display: inline-block;
 }
+
+.bx-b {
+    box-sizing: border-box;
+}
+.clear {
+    overflow: hidden;
+}
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}

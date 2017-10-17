@@ -1,19 +1,30 @@
 .c1 {
     color: #548BD4;
 }
-
+.c2 {
+    color: #666666;
+}
+.c3 {
+    color: #8b8b8b;
+}
 .ff1 {
     font-family: PingFangSC-Medium;
 }
+.fs12 {
+    font-size: 0.6rem;
+}
 .fs14 {
-    font-size: 14px;
+    font-size: 0.7rem;
+}
+.fs16 {
+    font-size: 0.8rem;
 }
 .fs18 {
-    font-size: 18px;
+    font-size: 0.9rem;
 }
 
 .fs28 {
-    font-size: 28px;
+    font-size: 1.4rem;
 }
 
 .tx-c {

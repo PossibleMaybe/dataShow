@@ -21,3 +21,46 @@
     font-size: 0.32rem;
     line-height: 1;
 }
+
+.sl-title {
+    height: 1.75rem;
+    line-height: 1.75rem;
+    padding-left:0.75rem;
+    border-bottom:1px solid #e1e1df;
+}
+.sl-detail {
+
+}
+.sl-detail li {
+    border-bottom:1px solid #e1e1df;
+    padding:0.5rem 0.75rem;
+}
+.sld-left {
+    width:25%;
+    height: 4.5rem;
+    border: 1px solid #e1e1df;
+}
+.sld-left img {
+    width:100%;
+    height:100%;
+}
+.sld-right {
+    width:75%;
+    display: flex;
+}
+
+.sldr-left {
+    flex:1;
+}
+.sldr-right {
+    width:0.4rem;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sldr-right img {
+    width:0.4rem;
+    height:0.625rem;
+}
+

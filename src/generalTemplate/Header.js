@@ -7,9 +7,12 @@ import left from './../images/arrow-left.png'
 import './Header.css';
 
 class Left extends Component {
+    goBack(){
+        console.log(window.location);
+    }
     render(){
         return (
-            <div className="left">
+            <div className="left" onClick={this.goBack}>
                 <img src={left} alt=""/>
             </div>
         )
