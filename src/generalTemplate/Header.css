@@ -1,0 +1,14 @@
+.left {
+    position: absolute;
+    padding-left: 0.4rem;
+}
+.left img {
+    width:0.45rem;
+    height:0.85rem;
+}
+
+header {
+    height:2.2rem;
+    line-height: 2.2rem;
+    background-color: #f7f7f7;
+}
