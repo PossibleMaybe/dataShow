@@ -7,3 +7,10 @@
 .il-img {
     zoom: 0.5;
 }
+
+.icon-list {
+    margin-top:0.75rem;
+}
+a {
+    display: inline-block;
+}

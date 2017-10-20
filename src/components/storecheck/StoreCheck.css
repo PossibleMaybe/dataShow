@@ -27,9 +27,10 @@
     line-height: 1.75rem;
     padding-left:0.75rem;
     border-bottom:1px solid #e1e1df;
+    background-color: #f8f8f8;
 }
-.sl-detail {
-
+.sl-detail a {
+    width: 100%;
 }
 .sl-detail li {
     border-bottom:1px solid #e1e1df;
@@ -51,10 +52,21 @@
 
 .sldr-left {
     flex:1;
+    margin-left: 0.5rem;
+}
+.sldr-left h3 {
+    color: #1a1a1a;
+    line-height: 0.85rem;
+}
+.sldr-left h4 {
+    line-height: 0.95rem;
+}
+.sldr-left h6 {
+    line-height: 0.875rem;
 }
 .sldr-right {
     width:0.4rem;
-    height: 100%;
+    height: 4.6rem;
     display: flex;
     align-items: center;
     justify-content: center;

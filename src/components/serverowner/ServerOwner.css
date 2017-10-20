@@ -1,0 +1,42 @@
+.so-title {
+    padding:1.4rem 1rem;
+    background-color: #609ce0;
+}
+
+.so-title img {
+    width:2.25rem;
+    height: 2.25rem;
+}
+
+.so-detail a{
+    width: 100%;
+}
+
+.sot-right {
+    margin-left:0.8rem;
+}
+
+.sot-right h3 {
+    line-height: 1.2rem;
+}
+
+.sot-right h4 {
+    line-height: 1rem;
+}
+
+.sod-li {
+    padding:0.75rem;
+    border-bottom:1px solid #dfdfe1;
+}
+
+.sod-left h3{
+    line-height:0.9rem;
+}
+
+.sod-left h4 {
+    line-height:0.7rem;
+}
+
+.sod-left strong {
+    color: #609ce0;
+}

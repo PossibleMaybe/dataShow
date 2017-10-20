@@ -1,0 +1,48 @@
+.cn-left {
+    height: 2.3rem;
+    line-height: 2.3rem;
+    padding-left:0.75rem;
+}
+.cn-left strong {
+    margin-left:0.5rem;
+}
+
+.receive-debit {
+    line-height: 2rem;
+    background-color: #fffdf0;
+    padding-left:0.75rem;
+}
+
+.receipts-types {
+    height: 2.2rem;
+    line-height: 2.2rem;
+}
+
+.receipts-types span {
+    width:50%;
+    border-right:1px solid #e0e0e0;
+}
+
+.receipts-types strong {
+    width: 50%;
+}
+
+.receipts-types strong.active {
+    color: #c4c4c4;
+    background-color: #f7f7f7;
+}
+.rd-left {
+    width:50%;
+    padding-left:0.75rem;
+}
+.rd-left p {
+    line-height: 1.4rem;
+}
+.rd-right {
+    width:50%;
+    padding-left:0.75rem;
+}
+
+.rd-right p {
+    line-height: 1.4rem;
+}

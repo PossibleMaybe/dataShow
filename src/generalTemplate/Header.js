@@ -8,7 +8,7 @@ import './Header.css';
 
 class Left extends Component {
     goBack(){
-        console.log(window.location);
+        console.log(window.history.go(-1));
     }
     render(){
         return (

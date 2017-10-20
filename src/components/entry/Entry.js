@@ -7,15 +7,19 @@ import Top from './../../generalTemplate/Header';
 
 import storeCheck from './../../images/store-check.png';
 import serverOwner from './../../images/server-owner.png';
+import Loading from './../../generalTemplate/Loading';
 
 class IconList extends Component {
     constructor(props){
         super(props);
     }
-    
+    componentDidMount(){
+
+
+    }
     render(){
         return (
-            <div className="icon-list"> 
+            <div className="icon-list bc1">
                 <ul>
                     <li className="il-li">
                         <Link to="/storecheck">
@@ -30,6 +34,7 @@ class IconList extends Component {
 
                     </li>
                 </ul>
+
             </div>
         )
     }

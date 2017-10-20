@@ -7,17 +7,35 @@
 .c3 {
     color: #8b8b8b;
 }
+.c4 {
+    color: #ffffff;
+}
+.bc1 {
+    background-color: #ffffff;
+}
 .ff1 {
     font-family: PingFangSC-Medium;
+}
+.fs11 {
+    font-size:0.55rem;
 }
 .fs12 {
     font-size: 0.6rem;
 }
+.fs13 {
+    font-size:0.65rem;
+}
 .fs14 {
     font-size: 0.7rem;
 }
+.fs15 {
+    font-size: 0.75rem;
+}
 .fs16 {
     font-size: 0.8rem;
+}
+.fs17 {
+    font-size: 0.85rem;
 }
 .fs18 {
     font-size: 0.9rem;
